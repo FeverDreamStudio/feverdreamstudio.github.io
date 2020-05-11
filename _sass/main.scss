@@ -1,3 +1,5 @@
+$width: 780px;
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -13,7 +15,8 @@ body {
   line-height: 20px;
   font-weight: normal;
   font-style: normal;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  // font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: Consolas, monaco, monospace;
   color: #333333;
   padding: 20px;
   margin: 0;
@@ -224,7 +227,7 @@ iframe {
   width: 100%;
 }
 article {
-  max-width: 500px;
+  max-width: $width;
   margin: 0 auto;
   h1.title {
     line-height: 1.4em;
@@ -307,7 +310,7 @@ article {
 .page-navigation,
 .footer {
   text-align: center;
-  max-width: 500px;
+  max-width: $width;
   margin: 0 auto;
   font-size: 0.8rem;
 }
@@ -331,12 +334,12 @@ article {
   }
 }
 section {
-  max-width: 500px;
+  max-width: $width;
   margin: 0 auto 50px auto;
   ul {
-    list-style: none;
+    // list-style: none;
     margin: 0;
-    padding: 0;
+    // padding: 0;
     li {
       margin: 25px 0;
       .title {
@@ -348,6 +351,7 @@ section {
       }
       a {
         text-decoration: none;
+        font-weight: bold;
         border: 0;
         color: #000;
         box-sizing: border-box;
