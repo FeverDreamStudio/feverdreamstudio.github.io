@@ -3,16 +3,11 @@ layout: default
 ---
 
 <article>
-
-	<div class="center">
-		<h1 class="title">{{ page.title }}</h1>
-		<time class="code">{{ page.date | date: '%B %-d, %Y' }}</time>
-	</div>
-
-	<div class="divider"></div>
-
+	<time datetime="{{ page.date | date: "%m-%Y-%d" }}">
+		<a href="{{ page.url }}">{{ page.date | date_to_string: "ordinal", "US" }}</a>
+	</time>
+	<h1>{{page.title}}</h1>
 	{{ content }}
-
 </article>
 
 <div class="page-navigation code">
