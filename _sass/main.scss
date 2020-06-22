@@ -342,6 +342,9 @@ section {
     // padding: 0;
     li {
       margin: 25px 0;
+      font-size: 15px;
+      line-height: 1.9em;
+      word-wrap: break-word;
       .title {
         max-width: 100%;
         //overflow: hidden !important;
