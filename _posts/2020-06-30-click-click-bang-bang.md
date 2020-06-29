@@ -26,5 +26,9 @@ We were all about weapons this week! I personally had a blast ([PUN INTENDED](ht
 
 - Continue doing explorations of our other **outstanding questions** (level structure and enemies). Should we allocate time explicitly for these things? Expect a lengthy debate about this topic in #general...
 
+## Miscellany
+
+- As promised, I'm at long last planning to schedule a "big picture" / business 'n process meeting for us. Said meeting will also have some time for us to plan out what we'll be doing in the coming two weeks.
+
 ## And last...
 Bring it up with [Sexy Gandalf](https://cdn.discordapp.com/attachments/724776382953160754/727198037969076224/1206.png).
