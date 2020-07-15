@@ -4,7 +4,7 @@ title: Life in the Vortex
 date: 2020-07-15 07:46 +0800
 ---
 
-Whoa...has it seriously only been 8 days since the last devlog entry? I think we entered some sort of weird Time Vortex. It felt like an incalculable amount of stuff happened in the last week, but at the same time we're kind of in the same spot we were in before? But also we learned an important lesson maybe? Such is the creative process.
+Whoa...has it seriously only been 8 days since the last devlog entry? I think we entered some sort of weird Time Vortex. It felt like an incalculable amount of stuff happened in the last week, but simultaneously we're kind of in the same spot we were in before? But also we learned an important lesson maybe? Such is the creative process.
 
 ## Recap
 
