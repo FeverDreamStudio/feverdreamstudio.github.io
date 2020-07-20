@@ -2,6 +2,7 @@
 layout: post
 title: Buckle Yer Seatbelts
 date: 2020-05-19 01:19 +0800
+tag: devlog
 ---
 
 Another good week in BZ land! Our momentum feels good, and we're getting ready to buckle down and make some real magic. Some highlights of the past week:

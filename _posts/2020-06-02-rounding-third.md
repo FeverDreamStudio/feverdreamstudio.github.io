@@ -2,6 +2,7 @@
 layout: post
 title: Rounding Third
 date: 2020-06-02 01:46 +0800
+tag: devlog
 ---
 
 Building building building! It feels like we're now in the phase of development where we take two steps forward and one step back - stuff is getting done, but the goal posts keep slipping a bit further into the distance. We're getting the hang of working in the same codebase, integrating our work, and making sure everything is still feeling OK with each change. It's all part of the process!

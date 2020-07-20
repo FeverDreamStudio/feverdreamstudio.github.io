@@ -2,6 +2,7 @@
 layout: post
 title: Hello World
 date: 2020-05-12 01:17 +0800
+tag: devlog
 ---
 
 Welp - we're gonna give this devlog thing a shot. While this might at some point be read by the general public, I'm writing this primarily for us, as a way to recap the awesome stuff that's occurred, and think a bit about where want to get to in the coming week.

@@ -2,6 +2,7 @@
 layout: post
 title: Making Sausage
 date: 2020-05-26 00:29 +0800
+tag: devlog
 ---
 
 At long last - we're actually building a dang game! It's been super cool to start integrating real assets, building out features, and making real software.
