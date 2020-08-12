@@ -4,7 +4,7 @@ title: Rank and File
 date: 2020-08-12 03:53 +0800
 ---
 
-What's that there, looming on the horizon? Why - it's another playtest! Per the great suggestion by Jakob, we're starting to set our sets on trying to get everything into a playable state, and sending something out to our lovely testers yet again. I think this is really exciting - we've had a goodly amount of time to explore without a ton of pressure, but having a milestone to hit infuses everything with consequence and forward momentum. Shipping makes it real!
+What's that there, looming on the horizon? Why - it's another playtest! Per the great suggestion by Jakob, we're starting to set our sights on trying to get everything into a playable state, and sending something out to our lovely testers yet again. I think this is really exciting - we've had a goodly amount of time to explore without a ton of pressure, but having a milestone to hit infuses everything with consequence and forward momentum. Shipping makes it real!
 
 ## Recap
 
